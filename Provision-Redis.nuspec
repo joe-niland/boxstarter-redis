@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Provision-Redis</id>
+    <version>1.0.0</version>
+    <authors>90906166</authors>
+    <owners>90906166</owners>
+    <description>Install and configure Redis caching service</description>
+    <tags>Boxstarter</tags>
+  </metadata>
+</package>
